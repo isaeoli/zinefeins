@@ -53,7 +53,13 @@ PrefabInstance:
       value: pageonefbx
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2976167749787523198, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
+    - {fileID: -4144584229092556988, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
+    - {fileID: 3676285936914170410, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
+    - {fileID: -3260455847096889321, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
+    - {fileID: 6095522418024216900, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
+    - {fileID: 1361036646050908948, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 132db4e3c31f041eab9a37c6e1bfbbd3, type: 3}
