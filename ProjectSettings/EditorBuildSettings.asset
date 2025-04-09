@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/zinefeins.unity
+    guid: 3d674fd68d27f4c0eb1612eca3e0f32b
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 520e101a5eb224ca89cb1f946206c47e, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
