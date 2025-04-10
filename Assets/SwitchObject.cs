@@ -5,13 +5,12 @@ using System.Collections.Generic;
 using UnityEngine.Video;
 
 
-public class SwitchVideo : MonoBehaviour
+public class SwitchObject : MonoBehaviour
 {
 
     public ARTrackedImage aRTrackedImage;
 
-    public List<VideoClip> VideoClip; 
-
+    public List<GameObject> objects; 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -21,19 +20,14 @@ public class SwitchVideo : MonoBehaviour
         Debug.Log(aRTrackedImage.referenceImage.name);
 
 
-        foreach(VideoClip clip in VideoClip)
+        foreach(GameObject newObject in objects)
         {
-            if(aRTrackedImage.referenceImage.name == clip.name)
+            if(aRTrackedImage.referenceImage.name == newObject.name)
             {
-                GetComponentInChildren<VideoPlayer>().clip = clip;
+                Instantiate(newObject, gameObject.transform);
                 Debug.Log("found");
             }
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
