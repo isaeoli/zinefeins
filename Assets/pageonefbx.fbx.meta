@@ -3,7 +3,52 @@ guid: 132db4e3c31f041eab9a37c6e1bfbbd3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character_Default_Body
+    second: {fileID: 2100000, guid: 673ede255b05e41e19aa47ae5b362b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character_Default_Shoulders
+    second: {fileID: 2100000, guid: 60fefb997514244aa89e82c7a531ce74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character_Default_belt1
+    second: {fileID: 2100000, guid: 9212a2bbab47849f1a0edd1630094e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character_Default_pants1
+    second: {fileID: 2100000, guid: b5aae7395907a4490962d2f23e36d833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character_Default_visor1
+    second: {fileID: 2100000, guid: 41e3908f1a2f141cf8b2641b50f16cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UFO_base
+    second: {fileID: 2100000, guid: cc8ae32e95aec459ea834671162bece9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UFO_bottom2
+    second: {fileID: 2100000, guid: 23e018b29798e45dfb07db27500920ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UFO_glass1
+    second: {fileID: 2100000, guid: c54cb816af90f4ae09715a5d3c7416c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UFO_top1
+    second: {fileID: 2100000, guid: cc8ae32e95aec459ea834671162bece9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -31,7 +76,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crashland
+      name: crashland1
       takeName: Take 001
       internalID: 1827226128182048838
       firstFrame: 2

@@ -10,7 +10,7 @@ public class SwitchVideo : MonoBehaviour
 
     public ARTrackedImage aRTrackedImage;
 
-    public List<VideoClip> videoClips; 
+    public List<VideoClip> VideoClip; 
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -21,7 +21,7 @@ public class SwitchVideo : MonoBehaviour
         Debug.Log(aRTrackedImage.referenceImage.name);
 
 
-        foreach(VideoClip clip in videoClips)
+        foreach(VideoClip clip in VideoClip)
         {
             if(aRTrackedImage.referenceImage.name == clip.name)
             {
