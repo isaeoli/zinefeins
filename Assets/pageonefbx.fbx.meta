@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Character_Default_Body
-    second: {fileID: 2100000, guid: 673ede255b05e41e19aa47ae5b362b67, type: 2}
+    second: {fileID: 2100000, guid: c66b4b07ef3da4060b6bbb42922d6480, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -18,12 +18,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Character_Default_belt1
-    second: {fileID: 2100000, guid: 9212a2bbab47849f1a0edd1630094e3c, type: 2}
+    second: {fileID: 2100000, guid: 0ff6bf2e939cf410d88b82fbdac1463f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Character_Default_pants1
-    second: {fileID: 2100000, guid: b5aae7395907a4490962d2f23e36d833, type: 2}
+    second: {fileID: 2100000, guid: 9abee106bcd0246e88ee30c86e1bd28f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

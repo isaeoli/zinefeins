@@ -47,7 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aRTrackedImage: {fileID: 0}
   objects:
-  - {fileID: 5195234255239257419, guid: d94e5a14030204e27b26fa91269eb555, type: 3}
+  - {fileID: 8588693056133420648, guid: 8886c5f0278cd4399b1309ee0ca5a5e4, type: 3}
 --- !u!114 &7744112255343953929
 MonoBehaviour:
   m_ObjectHideFlags: 0
