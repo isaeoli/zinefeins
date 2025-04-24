@@ -1,44 +1,9 @@
 fileFormatVersion: 2
-guid: 773496fbb117545f696297bd3f1eab88
+guid: 1b1f7815af0e241c0966bf1fffea8ae9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character_Gothic__1_2_apron_frill_necklace
-    second: {fileID: 2100000, guid: f9e671fd9fbe746aab91e40937614f56, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character_Gothic__1_2_beltstuds
-    second: {fileID: 2100000, guid: 26837fa3bbef044b29debc0e591ce79e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character_Gothic__1_2_bodyA
-    second: {fileID: 2100000, guid: acf09eeef70074d95a3ff4e411db3f62, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character_Gothic__1_2_bows
-    second: {fileID: 2100000, guid: 8ed2ed79e323847a59c814a276c02a41, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character_Gothic__1_2_darkcolors
-    second: {fileID: 2100000, guid: 0da8705aebdac4b2aa3a0e7646525add, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character_Gothic__1_2_visorA
-    second: {fileID: 2100000, guid: 219200cac81ea4ca78be5a170f461a9b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Guitar_lambert2
-    second: {fileID: 2100000, guid: 4e835ff24830f4982a7d2fbfafa9d0eb, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
