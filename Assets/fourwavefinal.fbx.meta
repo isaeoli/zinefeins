@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: be84fb65093834503ba1cc18d2099db1
+guid: 74806c9c7e584443f99347a41029a1df
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,33 +7,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: streetwear1_2_bodya
-    second: {fileID: 2100000, guid: af043ab0162e848a6abdf9838545b3cc, type: 2}
+      name: Character_Gothic__1_2_apron_frill_necklace
+    second: {fileID: 2100000, guid: f9e671fd9fbe746aab91e40937614f56, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: streetwear1_2_shadesa
-    second: {fileID: 2100000, guid: 418d63c5ed55644b5b5f22d16b2567bd, type: 2}
+      name: Character_Gothic__1_2_beltstuds
+    second: {fileID: 2100000, guid: 26837fa3bbef044b29debc0e591ce79e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: streetwear1_2_shoesa
-    second: {fileID: 2100000, guid: 967f88dc07113447da88c3f063e5de08, type: 2}
+      name: Character_Gothic__1_2_bodyA
+    second: {fileID: 2100000, guid: acf09eeef70074d95a3ff4e411db3f62, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: streetwear1_2_shortsa
-    second: {fileID: 2100000, guid: 6668dd8c6f4194d2ca5932b9aab0891b, type: 2}
+      name: Character_Gothic__1_2_bows
+    second: {fileID: 2100000, guid: 8ed2ed79e323847a59c814a276c02a41, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: streetwear1_2_tanka
-    second: {fileID: 2100000, guid: 2595d5b17a0954422bf300b2fa017c28, type: 2}
+      name: Character_Gothic__1_2_darkcolors
+    second: {fileID: 2100000, guid: 0da8705aebdac4b2aa3a0e7646525add, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: streetwear1_2_visora
-    second: {fileID: 2100000, guid: cd0ff016c29d449e582a9ee084125edc, type: 2}
+      name: Character_Gothic__1_2_visorA
+    second: {fileID: 2100000, guid: 219200cac81ea4ca78be5a170f461a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 4e835ff24830f4982a7d2fbfafa9d0eb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -59,7 +64,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gothwave
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 2
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
