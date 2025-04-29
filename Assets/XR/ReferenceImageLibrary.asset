@@ -87,3 +87,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: threewavefinal
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4811272971936464346
+      m_GuidHigh: 17807429128187282584
+    m_SerializedTextureGuid:
+      m_GuidLow: 6067802144081233140
+      m_GuidHigh: 4361485874272041177
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: onewavefinal
+    m_Texture: {fileID: 0}
