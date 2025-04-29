@@ -69,7 +69,7 @@ ModelImporter:
       name: guitar
       takeName: Take 001
       internalID: 1827226128182048838
-      firstFrame: 1
+      firstFrame: 32
       lastFrame: 220
       wrapMode: 0
       orientationOffsetY: 0
